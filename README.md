@@ -59,29 +59,10 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcardenxs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Marcos's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcardenxs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcardenxs&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🐍 Snake Eating Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mcardenxs/mcardenxs/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
   <img src="https://raw.githubusercontent.com/mcardenxs/mcardenxs/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
 </div>
-
 ---
-
-<div align="center">
-  <sub>⭐ Diseñado con pasión por <a href="https://github.com/mcardenxs">@mcardenxs</a></sub>
-</div>
